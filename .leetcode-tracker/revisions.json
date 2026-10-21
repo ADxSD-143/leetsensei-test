@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-21T21:32:41.960Z",
+  "generatedAt": "2026-10-21T21:34:22.598Z",
   "problems": {
     "0001": {
       "problemId": "0001",
@@ -23,16 +23,22 @@
       "problemId": "0005",
       "slug": "0005-longest-palindromic-substring",
       "title": "Longest Palindromic Substring",
-      "lastReviewedAt": "2026-10-21T21:32:41.948Z",
-      "nextReviewAt": "2026-10-22T21:32:41.948Z",
-      "currentIntervalDays": 1,
-      "successfulReviews": 1,
+      "lastReviewedAt": "2026-10-21T21:34:21.705Z",
+      "nextReviewAt": "2026-10-24T21:34:21.705Z",
+      "currentIntervalDays": 3,
+      "successfulReviews": 2,
       "history": [
         {
           "at": "2026-10-21T21:32:41.948Z",
           "rating": "hard",
           "intervalBeforeDays": 1,
           "intervalAfterDays": 1
+        },
+        {
+          "at": "2026-10-21T21:34:21.705Z",
+          "rating": "easy",
+          "intervalBeforeDays": 1,
+          "intervalAfterDays": 3
         }
       ]
     },
