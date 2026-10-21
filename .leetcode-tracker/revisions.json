@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-21T21:53:06.885Z",
+  "generatedAt": "2026-10-21T21:53:11.370Z",
   "problems": {
     "0001": {
       "problemId": "0001",
@@ -52,13 +52,19 @@
       "problemId": "0013",
       "slug": "0013-roman-to-integer",
       "title": "Roman to Integer",
-      "lastReviewedAt": "2026-10-21T21:53:04.290Z",
-      "nextReviewAt": "2026-10-22T21:53:04.290Z",
+      "lastReviewedAt": "2026-10-21T21:53:11.362Z",
+      "nextReviewAt": "2026-10-22T21:53:11.362Z",
       "currentIntervalDays": 1,
-      "successfulReviews": 1,
+      "successfulReviews": 2,
       "history": [
         {
           "at": "2026-10-21T21:53:04.290Z",
+          "rating": "hard",
+          "intervalBeforeDays": 1,
+          "intervalAfterDays": 1
+        },
+        {
+          "at": "2026-10-21T21:53:11.362Z",
           "rating": "hard",
           "intervalBeforeDays": 1,
           "intervalAfterDays": 1
