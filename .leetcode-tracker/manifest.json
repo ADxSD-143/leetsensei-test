@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-21T15:10:32.963Z",
+  "generatedAt": "2026-10-21T15:10:40.525Z",
   "problems": {
     "0001": {
       "problemId": "0001",
@@ -61,6 +61,106 @@
       ],
       "lastSyncedSubmissionId": "2042590303",
       "updatedAt": "2026-10-21T14:44:39.970Z"
+    },
+    "0005": {
+      "problemId": "0005",
+      "slug": "0005-longest-palindromic-substring",
+      "title": "Longest Palindromic Substring",
+      "titleSlug": "longest-palindromic-substring",
+      "url": "https://leetcode.com/problems/longest-palindromic-substring/",
+      "difficulty": "Medium",
+      "officialTags": [
+        "Two Pointers",
+        "String",
+        "Dynamic Programming",
+        "Manacher"
+      ],
+      "categories": [
+        "Dynamic-Programming",
+        "Manacher",
+        "String",
+        "Two-Pointers"
+      ],
+      "metadataIncomplete": false,
+      "languages": [
+        "python"
+      ],
+      "files": [
+        {
+          "path": "Dynamic-Programming/0005-longest-palindromic-substring/README.md",
+          "category": "Dynamic-Programming",
+          "kind": "readme",
+          "language": null,
+          "hash": "c7d7155b87b5b5b674922bff60c4b93110257a6d0d3a38ffad0d995126073851",
+          "blobSha": "68d9b97ceac1d22060998224499bd4b5f25f4849",
+          "version": 1
+        },
+        {
+          "path": "Dynamic-Programming/0005-longest-palindromic-substring/solution.py",
+          "category": "Dynamic-Programming",
+          "kind": "solution",
+          "language": "python",
+          "hash": "46af8e2316b2af406dae10753a1706ed8a22b387a3c430ce5529e391a2ed7975",
+          "blobSha": "4a4d8ca7b0ffa4e4247e614aa7e8918a29738992",
+          "version": 1
+        },
+        {
+          "path": "Manacher/0005-longest-palindromic-substring/README.md",
+          "category": "Manacher",
+          "kind": "readme",
+          "language": null,
+          "hash": "c7d7155b87b5b5b674922bff60c4b93110257a6d0d3a38ffad0d995126073851",
+          "blobSha": "68d9b97ceac1d22060998224499bd4b5f25f4849",
+          "version": 1
+        },
+        {
+          "path": "Manacher/0005-longest-palindromic-substring/solution.py",
+          "category": "Manacher",
+          "kind": "solution",
+          "language": "python",
+          "hash": "46af8e2316b2af406dae10753a1706ed8a22b387a3c430ce5529e391a2ed7975",
+          "blobSha": "4a4d8ca7b0ffa4e4247e614aa7e8918a29738992",
+          "version": 1
+        },
+        {
+          "path": "String/0005-longest-palindromic-substring/README.md",
+          "category": "String",
+          "kind": "readme",
+          "language": null,
+          "hash": "c7d7155b87b5b5b674922bff60c4b93110257a6d0d3a38ffad0d995126073851",
+          "blobSha": "68d9b97ceac1d22060998224499bd4b5f25f4849",
+          "version": 1
+        },
+        {
+          "path": "String/0005-longest-palindromic-substring/solution.py",
+          "category": "String",
+          "kind": "solution",
+          "language": "python",
+          "hash": "46af8e2316b2af406dae10753a1706ed8a22b387a3c430ce5529e391a2ed7975",
+          "blobSha": "4a4d8ca7b0ffa4e4247e614aa7e8918a29738992",
+          "version": 1
+        },
+        {
+          "path": "Two-Pointers/0005-longest-palindromic-substring/README.md",
+          "category": "Two-Pointers",
+          "kind": "readme",
+          "language": null,
+          "hash": "c7d7155b87b5b5b674922bff60c4b93110257a6d0d3a38ffad0d995126073851",
+          "blobSha": "68d9b97ceac1d22060998224499bd4b5f25f4849",
+          "version": 1
+        },
+        {
+          "path": "Two-Pointers/0005-longest-palindromic-substring/solution.py",
+          "category": "Two-Pointers",
+          "kind": "solution",
+          "language": "python",
+          "hash": "46af8e2316b2af406dae10753a1706ed8a22b387a3c430ce5529e391a2ed7975",
+          "blobSha": "4a4d8ca7b0ffa4e4247e614aa7e8918a29738992",
+          "version": 1
+        }
+      ],
+      "lastSyncedSubmissionId": "2025725668",
+      "updatedAt": "2026-10-21T15:10:40.525Z"
     },
     "0013": {
       "problemId": "0013",
@@ -141,106 +241,6 @@
       ],
       "lastSyncedSubmissionId": "2178056293",
       "updatedAt": "2026-10-21T15:03:42.832Z"
-    },
-    "0005": {
-      "problemId": "0005",
-      "slug": "0005-longest-palindromic-substring",
-      "title": "Longest Palindromic Substring",
-      "titleSlug": "longest-palindromic-substring",
-      "url": "https://leetcode.com/problems/longest-palindromic-substring/",
-      "difficulty": "Medium",
-      "officialTags": [
-        "Two Pointers",
-        "String",
-        "Dynamic Programming",
-        "Manacher"
-      ],
-      "categories": [
-        "Dynamic-Programming",
-        "Manacher",
-        "String",
-        "Two-Pointers"
-      ],
-      "metadataIncomplete": false,
-      "languages": [
-        "python"
-      ],
-      "files": [
-        {
-          "path": "Dynamic-Programming/0005-longest-palindromic-substring/README.md",
-          "category": "Dynamic-Programming",
-          "kind": "readme",
-          "language": null,
-          "hash": "fce058e5b8b9fc818d885c2dc49010aa6aa88e91f4af1c430540042e6d1a8a30",
-          "blobSha": "cccdb871b06b6605522a911e68589b559f0256e9",
-          "version": 1
-        },
-        {
-          "path": "Dynamic-Programming/0005-longest-palindromic-substring/solution.py",
-          "category": "Dynamic-Programming",
-          "kind": "solution",
-          "language": "python",
-          "hash": "46af8e2316b2af406dae10753a1706ed8a22b387a3c430ce5529e391a2ed7975",
-          "blobSha": "4a4d8ca7b0ffa4e4247e614aa7e8918a29738992",
-          "version": 1
-        },
-        {
-          "path": "Manacher/0005-longest-palindromic-substring/README.md",
-          "category": "Manacher",
-          "kind": "readme",
-          "language": null,
-          "hash": "fce058e5b8b9fc818d885c2dc49010aa6aa88e91f4af1c430540042e6d1a8a30",
-          "blobSha": "cccdb871b06b6605522a911e68589b559f0256e9",
-          "version": 1
-        },
-        {
-          "path": "Manacher/0005-longest-palindromic-substring/solution.py",
-          "category": "Manacher",
-          "kind": "solution",
-          "language": "python",
-          "hash": "46af8e2316b2af406dae10753a1706ed8a22b387a3c430ce5529e391a2ed7975",
-          "blobSha": "4a4d8ca7b0ffa4e4247e614aa7e8918a29738992",
-          "version": 1
-        },
-        {
-          "path": "String/0005-longest-palindromic-substring/README.md",
-          "category": "String",
-          "kind": "readme",
-          "language": null,
-          "hash": "fce058e5b8b9fc818d885c2dc49010aa6aa88e91f4af1c430540042e6d1a8a30",
-          "blobSha": "cccdb871b06b6605522a911e68589b559f0256e9",
-          "version": 1
-        },
-        {
-          "path": "String/0005-longest-palindromic-substring/solution.py",
-          "category": "String",
-          "kind": "solution",
-          "language": "python",
-          "hash": "46af8e2316b2af406dae10753a1706ed8a22b387a3c430ce5529e391a2ed7975",
-          "blobSha": "4a4d8ca7b0ffa4e4247e614aa7e8918a29738992",
-          "version": 1
-        },
-        {
-          "path": "Two-Pointers/0005-longest-palindromic-substring/README.md",
-          "category": "Two-Pointers",
-          "kind": "readme",
-          "language": null,
-          "hash": "fce058e5b8b9fc818d885c2dc49010aa6aa88e91f4af1c430540042e6d1a8a30",
-          "blobSha": "cccdb871b06b6605522a911e68589b559f0256e9",
-          "version": 1
-        },
-        {
-          "path": "Two-Pointers/0005-longest-palindromic-substring/solution.py",
-          "category": "Two-Pointers",
-          "kind": "solution",
-          "language": "python",
-          "hash": "46af8e2316b2af406dae10753a1706ed8a22b387a3c430ce5529e391a2ed7975",
-          "blobSha": "4a4d8ca7b0ffa4e4247e614aa7e8918a29738992",
-          "version": 1
-        }
-      ],
-      "lastSyncedSubmissionId": "2178061998",
-      "updatedAt": "2026-10-21T15:10:32.963Z"
     }
   }
 }

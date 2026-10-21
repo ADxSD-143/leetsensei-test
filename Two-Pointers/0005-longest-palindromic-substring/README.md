@@ -7,7 +7,7 @@
 - **Topics:** `Two Pointers`, `String`, `Dynamic Programming`, `Manacher`
 - **Solutions:** `solution.py`
 - **Categories:** `Dynamic-Programming`, `Manacher`, `String`, `Two-Pointers`
-- **Last synced:** 2026-10-21T15:10:31.524Z
+- **Last synced:** 2026-10-21T15:10:39.017Z
 
 ## Approach
 
