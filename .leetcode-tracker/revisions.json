@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-21T14:44:39.970Z",
+  "problems": {
+    "0001": {
+      "problemId": "0001",
+      "slug": "0001-two-sum",
+      "title": "Two Sum",
+      "lastReviewedAt": null,
+      "nextReviewAt": "2026-10-22T14:44:39.970Z",
+      "currentIntervalDays": 1,
+      "successfulReviews": 0,
+      "history": []
+    }
+  }
+}
