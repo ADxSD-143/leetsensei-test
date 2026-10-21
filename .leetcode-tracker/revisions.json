@@ -1,16 +1,23 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-21T15:10:40.525Z",
+  "generatedAt": "2026-10-21T21:32:38.030Z",
   "problems": {
     "0001": {
       "problemId": "0001",
       "slug": "0001-two-sum",
       "title": "Two Sum",
-      "lastReviewedAt": null,
-      "nextReviewAt": "2026-10-22T14:44:39.970Z",
-      "currentIntervalDays": 1,
-      "successfulReviews": 0,
-      "history": []
+      "lastReviewedAt": "2026-10-21T21:32:35.845Z",
+      "nextReviewAt": "2026-10-24T21:32:35.845Z",
+      "currentIntervalDays": 3,
+      "successfulReviews": 1,
+      "history": [
+        {
+          "at": "2026-10-21T21:32:35.845Z",
+          "rating": "easy",
+          "intervalBeforeDays": 1,
+          "intervalAfterDays": 3
+        }
+      ]
     },
     "0005": {
       "problemId": "0005",
