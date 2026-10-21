@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-21T14:44:39.970Z",
+  "generatedAt": "2026-10-21T15:03:42.832Z",
   "problems": {
     "0001": {
       "problemId": "0001",
@@ -61,6 +61,86 @@
       ],
       "lastSyncedSubmissionId": "2042590303",
       "updatedAt": "2026-10-21T14:44:39.970Z"
+    },
+    "0013": {
+      "problemId": "0013",
+      "slug": "0013-roman-to-integer",
+      "title": "Roman to Integer",
+      "titleSlug": "roman-to-integer",
+      "url": "https://leetcode.com/problems/roman-to-integer/",
+      "difficulty": "Easy",
+      "officialTags": [
+        "Hash Table",
+        "Math",
+        "String"
+      ],
+      "categories": [
+        "Hash-Table",
+        "Math",
+        "String"
+      ],
+      "metadataIncomplete": false,
+      "languages": [
+        "python"
+      ],
+      "files": [
+        {
+          "path": "Hash-Table/0013-roman-to-integer/README.md",
+          "category": "Hash-Table",
+          "kind": "readme",
+          "language": null,
+          "hash": "8b5a36b5edbb473d6ed5c6717b21b37d469db6a2b8945848008112b408b1f9d0",
+          "blobSha": "b4b948940a1ac7caa8e7a59c6528a6ef1bc07cd7",
+          "version": 1
+        },
+        {
+          "path": "Hash-Table/0013-roman-to-integer/solution.py",
+          "category": "Hash-Table",
+          "kind": "solution",
+          "language": "python",
+          "hash": "4a86261cb9129d298bfb895b8d29045944e877946d205d2bd0d57b6e1da58539",
+          "blobSha": "3b4655b25efc7ffc187a0039aca8347e0ff644b2",
+          "version": 1
+        },
+        {
+          "path": "Math/0013-roman-to-integer/README.md",
+          "category": "Math",
+          "kind": "readme",
+          "language": null,
+          "hash": "8b5a36b5edbb473d6ed5c6717b21b37d469db6a2b8945848008112b408b1f9d0",
+          "blobSha": "b4b948940a1ac7caa8e7a59c6528a6ef1bc07cd7",
+          "version": 1
+        },
+        {
+          "path": "Math/0013-roman-to-integer/solution.py",
+          "category": "Math",
+          "kind": "solution",
+          "language": "python",
+          "hash": "4a86261cb9129d298bfb895b8d29045944e877946d205d2bd0d57b6e1da58539",
+          "blobSha": "3b4655b25efc7ffc187a0039aca8347e0ff644b2",
+          "version": 1
+        },
+        {
+          "path": "String/0013-roman-to-integer/README.md",
+          "category": "String",
+          "kind": "readme",
+          "language": null,
+          "hash": "8b5a36b5edbb473d6ed5c6717b21b37d469db6a2b8945848008112b408b1f9d0",
+          "blobSha": "b4b948940a1ac7caa8e7a59c6528a6ef1bc07cd7",
+          "version": 1
+        },
+        {
+          "path": "String/0013-roman-to-integer/solution.py",
+          "category": "String",
+          "kind": "solution",
+          "language": "python",
+          "hash": "4a86261cb9129d298bfb895b8d29045944e877946d205d2bd0d57b6e1da58539",
+          "blobSha": "3b4655b25efc7ffc187a0039aca8347e0ff644b2",
+          "version": 1
+        }
+      ],
+      "lastSyncedSubmissionId": "2178056293",
+      "updatedAt": "2026-10-21T15:03:42.832Z"
     }
   }
 }

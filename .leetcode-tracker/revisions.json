@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-21T14:44:39.970Z",
+  "generatedAt": "2026-10-21T15:03:42.832Z",
   "problems": {
     "0001": {
       "problemId": "0001",
@@ -8,6 +8,16 @@
       "title": "Two Sum",
       "lastReviewedAt": null,
       "nextReviewAt": "2026-10-22T14:44:39.970Z",
+      "currentIntervalDays": 1,
+      "successfulReviews": 0,
+      "history": []
+    },
+    "0013": {
+      "problemId": "0013",
+      "slug": "0013-roman-to-integer",
+      "title": "Roman to Integer",
+      "lastReviewedAt": null,
+      "nextReviewAt": "2026-10-22T15:03:42.832Z",
       "currentIntervalDays": 1,
       "successfulReviews": 0,
       "history": []
